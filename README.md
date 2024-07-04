@@ -1,4 +1,4 @@
-## Hi there my name is Joseph, an IT student <https://www.linkedin.com/in/joseph-caban-9354b8204/> 👋
+## Hi there my name is Joseph, an <IT student https://www.linkedin.com/in/joseph-caban-9354b8204/> 👋
 
 <!--
 **JrCab22/JrCab22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
