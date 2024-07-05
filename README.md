@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joseph, an <a href="https://linkedin.com/in/JosephCaban">IT Professional</a>☺</h1>
+<h1>Hi, I'm Joseph, an <a href="https://linkedin.com/in/JosephCaban">IT Studentl</a>☺</h1>
 
 <h2>Information Technology Student:</h2>
 
