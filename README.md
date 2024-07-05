@@ -1,6 +1,6 @@
-<h1>Hi, I'm Joseph, an <a href="https://linkedin.com/in/JosephCaban">IT Studentl</a>☺</h1>
+<h1>Hi, I'm Joseph, an <a href="https://www.linkedin.com/in/joseph-caban-9354b8204/">IT Studentl</a>☺</h1>
 
-<h2>Information Technology Student:</h2>
+<h2>Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/JrCab22/osticket-prereqs)
