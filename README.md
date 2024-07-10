@@ -13,4 +13,4 @@
 <h2>🤳Connect with me:</h2>
 
 
-[linkedin]:https://www.linkedin.com/in/joseph-caban-9354b8204/
+[linkedin]: https://www.linkedin.com/in/joseph-caban-9354b8204/
